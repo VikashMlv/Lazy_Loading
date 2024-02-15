@@ -1,0 +1,14 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "rajesh gupta",
+      "password": "rajesh123"
+    },
+    {
+      "id": "5bda",
+      "username": "Atul",
+      "password": "atul@123"
+    }
+  ]
+}
